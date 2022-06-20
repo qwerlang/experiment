@@ -7,6 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExperimentApplication {
 
     public static void main(String[] args) {
+        System.out.println(
+                "sima"
+        );
+
         SpringApplication.run(ExperimentApplication.class, args);
     }
 
