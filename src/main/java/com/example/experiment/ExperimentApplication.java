@@ -10,7 +10,7 @@ public class ExperimentApplication {
         System.out.println(
                 "sima"
         );
-
+        System.out.println("你好傻逼");
         SpringApplication.run(ExperimentApplication.class, args);
     }
 
