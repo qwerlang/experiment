@@ -8,9 +8,10 @@ public class ExperimentApplication {
 
     public static void main(String[] args) {
         System.out.println(
-                "sima"
+                "sima"+"good"
         );
-        System.out.println("你好傻逼");
+        System.out.println("你好傻逼"+"nimade");
+
         SpringApplication.run(ExperimentApplication.class, args);
     }
 
